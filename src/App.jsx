@@ -18,7 +18,7 @@ const TABS = [
 const HEADS = {
   stage: {
     eyebrow: "Stage brief · Peddapalle cluster",
-    title: "What to say on the stage",
+    title: "Citizens for Accountable Governance (CAG)",
     lede: "The history of this place, what the Congress rows promised, and what the last dated report says was delivered.",
   },
   roll: {
