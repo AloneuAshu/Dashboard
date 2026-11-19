@@ -50,7 +50,7 @@ export default function StageBrief({ picked, assembly, mandals, mandalRow, booth
         <span>Still open {open.length}</span>
       </div>
       <h2 className="brief-title">
-        <Icon name="flame" /> Mancherial Updates
+        <Icon name="flame" /> Mancherial Updates.
       </h2>
       {open.length === 0 && <p>This place has no open row in the register.</p>}
       <div className="say">
